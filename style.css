@@ -106,7 +106,7 @@ p{
 }
 
 #hero{
-    background-image: url(img5.jpg);
+    background-image: url(media/img5.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
